@@ -1,0 +1,10 @@
+server.id=p1
+server.port=10001
+server.timeout=10000
+server.pool.listener=1
+server.pool.handler=1
+
+jndi.main=jdbc:mysql://localhost:3306/bus_tdw|root|null;5;5;3;12000
+
+
+
